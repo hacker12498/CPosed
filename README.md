@@ -1,5 +1,6 @@
 # Cposed
-
+  本项目将根据技术发展和用户需求持续改进和优化，努努力提供更好的使用体验
+  
 ## 项目简介
 
 Cposed 是基于 [LSPosed](https://github.com/LSPosed/LSPosed) 项目进行修改的增强版本，专注于提升在特定环境下的兼容性和稳定性。
@@ -27,6 +28,7 @@ Cposed 是基于 [LSPosed](https://github.com/LSPosed/LSPosed) 项目进行修�
 ## 使用说明
 
 > **注意**: 本项目仅供学习和研究使用，请遵守相关法律法规。
+> **联系**: 有任何功能建议请随时联系 7641435@qq.com
 
 ## 免责声明
 
