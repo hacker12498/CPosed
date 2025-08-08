@@ -29,7 +29,7 @@ Cposed is an enhanced version based on the [LSPosed](https://github.com/LSPosed/
 ## Usage Instructions
 
 > **Notice**: This project is for learning and research purposes only. Please comply with relevant laws and regulations.
-> **Contact**: For project collaboration or feature suggestions, please contact 7641435@qq.com
+> **Contact**: For project collaboration or feature suggestions, please contact 7641436@qq.com
 
 ## Disclaimer
 
