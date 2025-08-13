@@ -141,10 +141,11 @@ public:
             HookSyms(handler, ShouldUseInterpreterEntrypoint);
         }
 
-        if (!HookSyms(handler, FixupStaticTrampolinesWithThread, FixupStaticTrampolines,
-                      FixupStaticTrampolinesRaw)) {
-            return false;
-        }
+        // lsp使用的lsplant在native层初始化的时候会hook某些方法， 这里会被检测到，所以需要暂时注释
+//        if (!HookSyms(handler, FixupStaticTrampolinesWithThread, FixupStaticTrampolines,
+//                      FixupStaticTrampolinesRaw)) {
+//            return false;
+//        }
 
         if (!HookSyms(handler, RegisterNativeClassLinker, RegisterNative, RegisterNativeFast,
                       RegisterNativeThread) ||
